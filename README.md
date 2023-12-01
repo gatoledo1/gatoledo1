@@ -21,9 +21,18 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" style="padding: 0 8px"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" /></a>
 </p>
 
+<div>
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gatoledo1&show_icons=true&theme=dracula&locale=en&layout=compact" alt="gatoledo1" />
 </p>
 <p align="left">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gatoledo1&theme=dracula" alt="gatoledo1" height="165" />
 </p>
+</div>
+
+  <img
+    width="1px"
+    src="https://profile-counter.glitch.me/gatoledo1/count.svg"
+    alt="Visitantes no perfil"
+  />
+
