@@ -1,38 +1,61 @@
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/gatoledo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gatoledo1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gatoledo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gatoledo1" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="padding: 0 8px"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" title="NextJS" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="padding: 0 8px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="React JS" width="40" height="40" /></a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" style="padding: 0 8px"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" title="React Native" width="40" height="40" /></a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer" style="padding: 0 8px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="padding: 0 8px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="padding: 0 8px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="padding: 0 8px"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40" /></a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer" style="padding: 0 8px"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" title="GraphQL" width="40" height="40" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="padding: 0 8px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="padding: 0 8px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="padding: 0 8px"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WP" width="40" height="40" /></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="padding: 0 8px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" style="padding: 0 8px"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" style="padding: 0 8px"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" /></a>
-</p>
+## Gabriel Toledo de Souza 👋
 
 <div>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gatoledo1&show_icons=true&theme=dracula&locale=en&layout=compact" alt="gatoledo1" />
-</p>
-<p align="left">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gatoledo1&theme=dracula" alt="gatoledo1" height="165" />
-</p>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+<br>
+  <p align="left"> 
+  Formado em Ciência da Camputação em 2018.
+  Sou Desenvolvedor Web há mais de 7 anos, sendo mais de 3 anos com ReactJS. Nesse tempo aprendi que não basta ser excelente na codificação, também é necessário ser alguém que possa compartilhar conhecimento com a equipe, pois crescer em conjunto é a forma mais eficiente de melhorar a capacidade de um projeto, tornando a entrega contínua uma realidade para qualquer equipe.
+  
+  Para mim, um bom código, significa código que pode ser facilmente lido, entendido, mantido e dimensionado por desenvolvedores de qualquer nível.
+  </p>
 </div>
 
+<h2 align="left">
+Linguagens:
+</h2>
+
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Stlyed Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Wordpress](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+<p align="left">
+  Entre em contato: ⤵️
+</p>
+
+<a href="https://www.linkedin.com/in/gatoledo1/" title="LinkedIn" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<br>
+
+<div align="center" dir="center">
+  <div align="center">
+    <h4>Visitantes do perfil desde 01/12/23</h4>
+  </div>
+
   <img
-    width="1px"
     src="https://profile-counter.glitch.me/gatoledo1/count.svg"
     alt="Visitantes no perfil"
   />
+</div>
 
+<br>
+
+<div align="center" dir="center">
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gatoledo1&show_icons=true&theme=dracula&locale=en&layout=compact" alt="gatoledo1" />
+  </p>
+  <p>
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gatoledo1&theme=dracula" alt="gatoledo1" height="165" />
+  </p>
+</div>
+<br>
