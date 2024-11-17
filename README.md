@@ -5,7 +5,7 @@
 <br>
   <p align="left"> 
   Formado em Ciência da Computação em 2018.
-  Sou Desenvolvedor Web há mais de 7 anos, sendo mais de 3 anos com ReactJS. Nesse tempo aprendi que não basta ser excelente na codificação, também é necessário ser alguém que possa compartilhar conhecimento com a equipe, pois crescer em conjunto é a forma mais eficiente de melhorar a capacidade de um projeto, tornando a entrega contínua uma realidade para qualquer equipe.
+  Sou Desenvolvedor Web há mais de 7 anos, sendo mais de 4 anos com ReactJS. Nesse tempo aprendi que não basta ser excelente na codificação, também é necessário ser alguém que possa compartilhar conhecimento com a equipe, pois crescer em conjunto é a forma mais eficiente de melhorar a capacidade de um projeto, tornando a entrega contínua uma realidade para qualquer equipe.
   
   Para mim, um bom código, significa código que pode ser facilmente lido, entendido, mantido e dimensionado por desenvolvedores de qualquer nível.
 
